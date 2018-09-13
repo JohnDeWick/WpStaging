@@ -1179,9 +1179,9 @@ if ( ! function_exists('cs_user_login_shortcode') ) {
 
 
 
-            $output .= '<div class="modal fade" id="sign-in" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+                    $output .= '<div class="modal fade" id="sign-in" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
 					  <div class="modal-dialog" role="document">
-					   <div class="modal-content">
+					   <div class="modal-content">  
 						';
 
             $login_label = esc_html__('User Login', 'jobhunt');

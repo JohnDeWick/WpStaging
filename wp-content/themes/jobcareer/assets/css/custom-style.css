@@ -112,7 +112,7 @@ footer#footer .widget-contact-information .widgettext address a,
 .wp-jobhunt .jobs-listing.modern-v2 .jobs-content li span,
 .wp-jobhunt .jobs-listing.modern-v3 .apply-btn
 {
-color:#ed5d40 !important;
+color:#55a747 !important;
 }
 .cs-bgcolor,
 .wp-jobhunt .cs-employer-slide-listing [class*="col-lg"]:hover .cs-media figcaption, .wp-jobhunt .cs-employer-slide-listing [class*="col-md"]:hover .cs-media figcaption, .wp-jobhunt .cs-employer-slide-listing [class*="col-sm"]:hover .cs-media figcaption, .wp-jobhunt .cs-employer-slide-listing [class*="col-xs"]:hover .cs-media figcaption,
@@ -165,7 +165,7 @@ ul.post-step li.active h3 a i,
 .dasborad-fancy .section-sidebar .bg-holder, .wp-jobhunt .dasborad-fancy .account-menu li.active,
 .wp-jobhunt ul.cs-pricetable.fancy .pricetable-holder .price-holder a:hover,
 .wp-jobhunt .cs-jobs-holder .jobs-listing .job-post .jobtype-btn:hover{
-background-color:#ed5d40 !important;
+background-color:#55a747 !important;
 }
 .csborder-color, 
 .rich-text-editor blockquote,
@@ -207,13 +207,13 @@ ul.resumes-list li .cs-text .cs-posted span, ul.select-card li.active,
 .widget.widget-text.widget-contact-information ul.social-media a, .wp-jobhunt ul.cs-pricetable.fancy .pricetable-holder .price-holder a:hover,
 .wp-jobhunt .cs-jobs-holder .jobs-listing .job-post .jobtype-btn:hover
 {
-border-color:#ed5d40 !important;
+border-color:#55a747 !important;
 }
 .wp-jobhunt .pricetable-holder.classic{
-border-top-color:#ed5d40 !important;
+border-top-color:#55a747 !important;
 }
 body,.main-section p, .mce-content-body p {
-font:Normal  13px/19px "Roboto", sans-serif !important;letter-spacing: 0px !important;text-transform: capitalize !important;color: #757575 !important;            }
+font:Normal  13px/23px "Montserrat", sans-serif !important;letter-spacing: 0px !important;text-transform: none !important;color: #757575 !important;            }
 header .logo{
 margin-top:6px;
 margin-right:0px;
@@ -221,37 +221,41 @@ margin-bottom:10px;
 margin-left:0px;
 }
 #header .navigation > ul > li > a, #header .navigation > ul > li{
-font:Normal  13px/19px "Roboto", sans-serif !important;letter-spacing: 0px !important;text-transform: capitalize !important;            }
+font:Normal  12px/19px "Montserrat", sans-serif !important;letter-spacing: 0px !important;text-transform: uppercase !important;            }
 h1, h1 a{
-font:700 Normal  24px/30px "Roboto", sans-serif !important;letter-spacing: 1px !important;text-transform: capitalize !important;color: #424242 !important;}
+font:700 Normal  24px/24px "Raleway", sans-serif !important;letter-spacing: 1px !important;text-transform: uppercase !important;color: #424242 !important;}
 h2, h2 a{
-font:700 Normal  22px/28px "Roboto", sans-serif !important;letter-spacing: 1px !important;text-transform: capitalize !important;color: #424242 !important;            }
+font:700 Normal  22px/44px "Raleway", sans-serif !important;letter-spacing: 1px !important;text-transform: none !important;color: #424242 !important;            }
 h3, h3 a{ 
-font:700 Normal  20px/28px "Roboto", sans-serif !important;letter-spacing: 1px !important;text-transform: capitalize !important;color: #424242 !important;            }
+font:700 Normal  20px/28px "Raleway", sans-serif !important;letter-spacing: 1px !important;text-transform: uppercase !important;color: #424242 !important;            }
 h4, h4 a{
-font:700 Normal  18px/24px "Roboto", sans-serif !important;letter-spacing: 1px !important;text-transform: capitalize !important;color: #424242 !important;            }
+font:700 Normal  18px/18px "Raleway", sans-serif !important;letter-spacing: 1px !important;text-transform: uppercase !important;color: #424242 !important;            }
 h5, h5 a{
-font:700 Normal  16px/22px "Roboto", sans-serif !important;letter-spacing: 1px !important;text-transform: capitalize !important;color: #424242 !important;            }
+font:700 Normal  16px/25px "Raleway", sans-serif !important;letter-spacing: 1px !important;text-transform: uppercase !important;color: #424242 !important;            }
 h6, h6 a{
-font:700 Normal  14px/20px "Roboto", sans-serif !important;letter-spacing: 1px !important;text-transform: capitalize !important;color: #424242 !important;            }
+font:700 Normal  14px/20px "Raleway", sans-serif !important;letter-spacing: 1px !important;text-transform: uppercase !important;color: #424242 !important;            }
 .cs-element-title h2{
-font:700 Normal  20px/28px "Roboto", sans-serif !important;letter-spacing: 1px !important;text-transform: capitalize !important;            }
+font:700 Normal  20px/28px "Raleway", sans-serif !important;letter-spacing: 1px !important;text-transform: uppercase !important;            }
 .cs-post-title h3 a, .cs-post-title h2 a{
-font:700 Normal  16px/24px "Roboto", sans-serif !important;letter-spacing: 1px !important;text-transform: capitalize !important;            }
+font:700 Normal  16px/28px "Raleway", sans-serif !important;letter-spacing: 1px !important;text-transform: uppercase !important;            }
 .cs-page-title h1{
-font:700 Normal  30px/45px "Roboto", sans-serif !important;letter-spacing: 1px !important;text-transform: capitalize !important;color: #ffffff !important;            }
+font:700 Normal  30px/45px "Raleway", sans-serif !important;letter-spacing: 1px !important;text-transform: uppercase !important;color: #ffffff !important;            }
 .widget .widget-title h5{
-font:700 Normal  16px/22px "Roboto", sans-serif !important;letter-spacing: 1px !important;text-transform: uppercase !important;            }
-#footer .widget-title h5{ color: #333333 !important;}
+font:700 Normal  13px/19.5px "Raleway", sans-serif !important;letter-spacing: 1px !important;text-transform: uppercase !important;            }
+#footer .widget-title h5{ color: #ffffff !important;}
 #footer .widget-title h5{
-font:700 Normal  18px/24px "Roboto", sans-serif !important;letter-spacing: 1px !important;text-transform: uppercase !important;color: #333333 !important;            }
-.dropdown-menu h6 a{color:#333333 !important;}
+font:700 Normal  13px/16px "Raleway", sans-serif !important;letter-spacing: 1px !important;text-transform: uppercase !important;color: #ffffff !important;            }
+.dropdown-menu h6 a{color:#f2f2f2 !important;}
+.logo-section,#header,.main-head{background:#ffffff !important; 
+}
 .main-head{
 padding:20px !important;
 }
-.dropdown-menu { background-color:#ffffff !important;}
-.navigation > ul > li > ul li > a {color:#333333 !important;}
-.navigation > ul ul li > a:hover {color:#ed5d40 !important;}
+.main-navbar,#main-header .btn-style1,.wrapper:before {background:#fff !important;}
+.navigation, #header.dark-header {background:#fff !important;}
+.dropdown-menu { background-color:#1f1f1f !important;}
+.navigation > ul > li > ul li > a {color:#bebebe !important;}
+.navigation > ul ul li > a:hover {color:#55A747 !important;}
 .navigation > ul > li:hover > a, 
 .navigation > ul > li.current-menu-ancestor > a, 
 .navigation > ul > li.current-menu-parent > a, 
@@ -261,49 +265,43 @@ padding:20px !important;
 .navigation ul li ul.sub-dropdown li.current-menu-parent ul.sub-dropdown{
 color: !important;
 }
-.sub-dropdown:before {border-bottom:8px solid #ed5d40 !important;}
-.navigation > ul > li.parentIcon:hover > a:before { background-color:#ed5d40 !important; }
-.navigation > ul > li > a, #nav-icon2 i, #header.cs-transparent-header .search-bar i, #header.cs-transparent-header .join-us > a, header#header.cs-transparent-header .login > a, header#header.cs-transparent-header .wish-list a i { color:#333333 !important; }
-#header.cs-transparent-header .navicon, #header.cs-transparent-header .navicon::before, #header.cs-transparent-header .navicon::after{ background:#333333 !important; }
-#header.cs-transparent-header .join-us > a, header#header.cs-transparent-header .login > a { border-color:#333333 !important; background:none !important; }
-.cs-user,.cs-user-login { border-color:#ed5d40 !important; }
+.sub-dropdown:before {border-bottom:8px solid #55A747 !important;}
+.navigation > ul > li.parentIcon:hover > a:before { background-color:#55A747 !important; }
+.navigation > ul > li > a, #nav-icon2 i, #header.cs-transparent-header .search-bar i, #header.cs-transparent-header .join-us > a, header#header.cs-transparent-header .login > a, header#header.cs-transparent-header .wish-list a i { color:#555555 !important; }
+#header.cs-transparent-header .navicon, #header.cs-transparent-header .navicon::before, #header.cs-transparent-header .navicon::after{ background:#555555 !important; }
+#header.cs-transparent-header .join-us > a, header#header.cs-transparent-header .login > a { border-color:#555555 !important; background:none !important; }
+.cs-user,.cs-user-login { border-color:#55A747 !important; }
 .page-sidebar .widget-title h3, .page-sidebar .widget-title h4, .page-sidebar .widget-title h5, .page-sidebar .widget-title h6{
 color:#333333 !important;
 }            .section-sidebar .widget-title h3, .section-sidebar .widget-title h4, .section-sidebar .widget-title h5, .section-sidebar .widget-title h6{
 color:#333333 !important;
 }
-.cs-copyright-area, #footer .cs-footer.fancy-footer .footer-top, .cs-footer.modern-footer .footer-top {border-top:1px solid #f7f7f7 !important;}
-.cs-footer.modern-footer .cs-copyright .back-to-top a:before,
-.cs-footer.modern-footer .cs-copyright .back-to-top a:after {background: #f7f7f7 !important;}
 #header .top-bar {
-background-color:#222b38 !important;
-}
-#header .top-bar {
-color:#ffffff !important;
+color:#999999 !important;
 }
 #header .top-bar a {
-color:#ffffff !important;
+color:#999999 !important;
 }
 #header .top-bar a:hover {
-color:#417cbf !important;
+color:#999999 !important;
 }
 #header .top-bar .social-media a:hover i {
-color:#417cbf !important;
+color:#999999 !important;
 }
 #header .top-bar .social-media a i {
-color:#ffffff !important;
+color:#999999 !important;
 }
-footer#footer p, footer#footer span, footer#footer .textwidget{color:#999999 !important;}
+footer#footer p, footer#footer span, footer#footer .textwidget{color:#ffffff !important;}
 .footer-top, #footer .footer-v3 .cs-copyright {
-background-color:#f7f7f7 !important;
+background-color:#25262a !important;
 }
-.footer-links,.footer-links a{color:#ffffff !important;}
-.footer-btm {background-color:#183547 !important;}
+.footer-links,.footer-links a{color:#8e9198 !important;}
+.footer-btm {background-color:#1e1f21 !important;}
 #footer  .copyrights{
-color:#ffffff !important;
+color:#8e9198 !important;
 }
 footer#footer a, .footer-nav li a, .cs-footer .widget ul li a:before  {
-color:#999999 !important;
+color:#8e9198 !important;
 }            .footer-nav li::before  {
-background-color:#999999 !important;
-}            footer#footer .footer-links a.footer#footer .footer-link {color:#ffffff !important;}
+background-color:#8e9198 !important;
+}            footer#footer .footer-links a.footer#footer .footer-link {color:#8e9198 !important;}
